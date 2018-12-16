@@ -1,0 +1,83 @@
+{
+  "legos": [
+    {
+      "creatorName": "",
+      "legoName": "",
+      "legoColor": "",
+      "legoShape": "",
+      "id": 1
+    },
+    {
+      "creatorName": "",
+      "legoName": "",
+      "legoColor": "",
+      "legoShape": "",
+      "id": 2
+    },
+    {
+      "creatorName": "",
+      "legoName": "",
+      "legoColor": "1",
+      "legoShape": "",
+      "id": 3
+    },
+    {
+      "creatorName": "Brittany",
+      "legoName": "block",
+      "legoColor": "1",
+      "legoShape": "square",
+      "id": 4
+    },
+    {
+      "creatorName": "Andrew",
+      "legoName": "block",
+      "legoColor": "4",
+      "legoShape": "square",
+      "id": 5
+    },
+    {
+      "creatorName": "Melisa",
+      "legoName": "flower",
+      "legoColor": "7",
+      "legoShape": "flower shape",
+      "id": 6
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "value": 1,
+      "color": "Red"
+    },
+    {
+      "id": 2,
+      "value": 2,
+      "color": "Green"
+    },
+    {
+      "id": 3,
+      "value": 3,
+      "color": "Yellow"
+    },
+    {
+      "id": 4,
+      "value": 4,
+      "color": "Blue"
+    },
+    {
+      "id": 5,
+      "value": 5,
+      "color": "Orange"
+    },
+    {
+      "id": 6,
+      "value": 6,
+      "color": "Black"
+    },
+    {
+      "id": 7,
+      "value": 7,
+      "color": "Fuschia"
+    }
+  ]
+}
